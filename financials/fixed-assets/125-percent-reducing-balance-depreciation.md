@@ -1,6 +1,6 @@
 ---
 title: 125 percent reducing balance depreciation
-description: This article gives an overview of the 125 percent reducing balance method of depreciation.
+description: Testing HB of version 1 topic. This article gives an overview of the 125 percent reducing balance method of depreciation.
 author: twheeloc
 manager: AnnBe
 ms.date: 2015-12-02 22 - 58 - 51
@@ -18,16 +18,16 @@ ms.author: saraschi
 ms.dyn365.ops.intro: 01-02-2016
 ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 996e8ca38941025ad40431bfdd9b6fc1ae2136d0
-ms.openlocfilehash: 3bfb270f4fb9df0e5767a907abe5bf549aad420c
-ms.lasthandoff: 03/02/2017
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: c7517f60469506190ab8038b22e5ec2879bad9c5
+ms.lasthandoff: 03/08/2017
 
 
 ---
 
 # <a name="125-percent-reducing-balance-depreciation"></a>125 percent reducing balance depreciation
 
-This is a test of v2. This article gives an overview of the 125 percent reducing balance method of depreciation.
+This article gives an overview of the 125 percent reducing balance method of depreciation.
 
 When you set up a fixed asset depreciation profile and select **125% reducing balance** in the **Method** field on the **Depreciation profiles** page, fixed assets that are assigned to the depreciation profile are depreciated by the same percentage in each depreciation period. This percentage is calculated based on the service life of the asset. For example, if an asset has a service life of five years, the percentage is calculated as 25 percent (125% ÷ 5). To set up 125% reducing balance depreciation, you must also select options in the **Depreciation year** field and the **Period frequency** field on the **Depreciation profiles** page. The options that are available in the **Period frequency** field vary, depending on the value that is selected in the **Depreciation year** field.
 
