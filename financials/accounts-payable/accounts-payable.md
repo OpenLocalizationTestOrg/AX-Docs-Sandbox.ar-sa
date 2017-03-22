@@ -1,5 +1,5 @@
 ---
-title: TEST HB OF V1 WHEN V2 in HO folder. Accounts payable home page
+title: Accounts payable home page
 description: This topic provides a list of the help topics and other resources that are available for Accounts payable.
 author: twheeloc
 manager: AnnBe
@@ -18,16 +18,16 @@ ms.author: twheeloc
 ms.search.validFrom: 2016-05-31
 ms.dyn365.ops.version: AX 7.0.1
 translationtype: Human Translation
-ms.sourcegitcommit: 5c0c34d84dbba3a71480d50cf5d4fcd83dddedc6
-ms.openlocfilehash: b6126eb6d76841271dfbfdb64a9f5bdfe183af5f
-ms.lasthandoff: 03/20/2017
+ms.sourcegitcommit: cb108ccea68c06958040cc688ffc4c29660d12d3
+ms.openlocfilehash: 41fec74762c448793604f7623f2bba6bc3050733
+ms.lasthandoff: 03/21/2017
 
 
 ---
 
 # <a name="accounts-payable-home-page"></a>Accounts payable home page
 
-This topic provides a list of the help topics and other resources that are available for Accounts payable.
+This is test of HB for Version 2 for test purposes. This topic provides a list of the help topics and other resources that are available for Accounts payable.
 
 You can enter vendor invoices manually or receive them electronically through a data entity. After the invoices are entered or received, you can review and approve the invoices by using an invoice approval journal or the **Vendor invoice** page. You can use invoice matching, vendor invoice policies, and workflow to automate the review process so that invoices that meet certain criteria are automatically approved, and the remaining invoices are flagged for review by an authorized user.
 
