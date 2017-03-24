@@ -9,17 +9,17 @@ ms.prod:
 ms.service: Dynamics365Operations
 ms.technology: 
 audience: Application User
-ms.search.scope: AX 7.0.0, Operations
+ms.search.scope: AX 7.0.0, Operations, Core
 ms.custom: 62303
 ms.assetid: 62c70de0-fdde-4417-8e08-0583fb095a40
 ms.search.region: Global
 ms.author: jasongre
-ms.dyn365.ops.intro: 01-02-2016
+ms.search.validFrom: 2016-02-28
 ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
-ms.openlocfilehash: 566549959425799ed06e96ef8bff70bdeca9b699
-ms.lasthandoff: 02/22/2017
+ms.sourcegitcommit: 5c0c34d84dbba3a71480d50cf5d4fcd83dddedc6
+ms.openlocfilehash: 2fba43a0580267b14a01651ef8d1860f12f95d36
+ms.lasthandoff: 03/20/2017
 
 
 ---
