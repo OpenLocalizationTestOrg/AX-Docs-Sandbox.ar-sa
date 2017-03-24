@@ -13,11 +13,12 @@ ms.reviewer: sericks007
 ms.suite: Released- Dynamics AX platform update 2
 ms.custom: 21821
 ms.assetid: fc0261c9-6e02-4d80-bbc4-41bacb325fc4
-ms.region: Global
+ms.search.region: Global
 ms.author: sericks
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: bda38dc4aa67fa422174d2ffc9cd1554ff5396ec
+ms.sourcegitcommit: fc2ec3850adb86f8283d4cfe05a6f17846b0988a
+ms.openlocfilehash: 5fe65b1c7e76d4f84a06e33c37a1e8cc45f69e35
+ms.lasthandoff: 03/24/2017
 
 
 ---
@@ -780,14 +781,9 @@ Human Resources Payroll information
 |                              |                                                                                             |
 |------------------------------|---------------------------------------------------------------------------------------------|
 | Reason for deprecation       | This functionality has been replaced by another feature.                                    |
-| Replaced by another feature? | Management Reporter (labeled **Financial reporting** in the current version of Dynamics AX) |
+| Replaced by another feature? | test hb prev poison and dup filesManagement Reporter (labeled **Financial reporting** in the current version of Dynamics AX) |
 | Modules affected             | General ledger                                                                              |
 
 
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

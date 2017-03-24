@@ -18,16 +18,16 @@ ms.author: twheeloc
 ms.search.validFrom: 2016-05-31
 ms.dyn365.ops.version: AX 7.0.1
 translationtype: Human Translation
-ms.sourcegitcommit: cb108ccea68c06958040cc688ffc4c29660d12d3
-ms.openlocfilehash: 41fec74762c448793604f7623f2bba6bc3050733
-ms.lasthandoff: 03/21/2017
+ms.sourcegitcommit: fc2ec3850adb86f8283d4cfe05a6f17846b0988a
+ms.openlocfilehash: f34b14adeaa6fd416af8f5ee329ba538b088eb0b
+ms.lasthandoff: 03/24/2017
 
 
 ---
 
 # <a name="accounts-payable-home-page"></a>Accounts payable home page
 
-This is test of HB for Version 2 for test purposes. This topic provides a list of the help topics and other resources that are available for Accounts payable.
+March 24th, testing hb of new version to determine if previous V1 in HB poison folder removed Version 2 to be placed in HO folder for test purposes. This topic provides a list of the help topics and other resources that are available for Accounts payable.
 
 You can enter vendor invoices manually or receive them electronically through a data entity. After the invoices are entered or received, you can review and approve the invoices by using an invoice approval journal or the **Vendor invoice** page. You can use invoice matching, vendor invoice policies, and workflow to automate the review process so that invoices that meet certain criteria are automatically approved, and the remaining invoices are flagged for review by an authorized user.
 
@@ -55,6 +55,6 @@ You can enter vendor invoices manually or receive them electronically through a 
 -   [Scenario: Settle a partial vendor payment that has discounts on vendor credit notes](settle-partial-vendor-payment-discounts-vendor-credit-notes.md)
 -   [Scenario: Settle a partial vendor payment that has multiple discount periods](settle-partial-vendor-payment-multiple-discount-periods.md)
 -   [Scenario: Take a discount that is more than the calculated discount for a vendor payment](take-discount-more-calculated-discount-vendor-payment.md)
--   [Scenario: Take a cash discount outside the cash discount period](take-cash-discount-outside-cash-discount-timeframe.md)
+-   [test hb prev poison and dup filesScenario: Take a cash discount outside the cash discount period](take-cash-discount-outside-cash-discount-timeframe.md)
 
 

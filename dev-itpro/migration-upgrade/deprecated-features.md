@@ -14,12 +14,12 @@ ms.custom: 21821
 ms.assetid: 31019808-4cbf-47d7-b1ba-d791db4281ae
 ms.search.region: Global
 ms.author: sericks
-ms.dyn365.ops.intro: 01-08-2016
+ms.search.validFrom: 2016-08-30
 ms.dyn365.ops.version: Platform update 2
 translationtype: Human Translation
-ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
-ms.openlocfilehash: 8c271b2d4cc630a6de31a104d78eba23f31bc4c4
-ms.lasthandoff: 02/22/2017
+ms.sourcegitcommit: 5c0c34d84dbba3a71480d50cf5d4fcd83dddedc6
+ms.openlocfilehash: e9ba7239b9ff8b9b97c9dabc06fb2c68760d19d4
+ms.lasthandoff: 03/20/2017
 
 
 ---
@@ -782,7 +782,7 @@ Human Resources Payroll information
 |                              |                                                                                             |
 |------------------------------|---------------------------------------------------------------------------------------------|
 | Reason for deprecation       | This functionality has been replaced by another feature.                                    |
-| Replaced by another feature? | Management Reporter (labeled **Financial reporting** in the current version of Dynamics AX) |
+| Replaced by another feature? | test hb prev poison and dup filesManagement Reporter (labeled **Financial reporting** in the current version of Dynamics AX) |
 | Modules affected             | General ledger                                                                              |
 
 
